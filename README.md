@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Tiago! :metal::smiley:
-ℹ️ Instrutor de Tecnologia da Informação na **Impacta** e no **Senac São Paulo**
+Docente no **Senac Penha** e Professor freelancer na **Academia de Forense Digital (AFD)**.
 
 🎓 Graduado em Processamento de Dados e Pós-graduado em Projetos de Aplicações para Dispositivos Móveis
 
